@@ -6,7 +6,7 @@ import sort.Quick_Sort.Quick_Sort;
 import java.util.Arrays;
 
 public class test {
-    final static int n = 500000;
+    final static int n = 400000;
 
     public static void main(String[] args) throws InterruptedException, ClassNotFoundException {
         int[] arr1 = new int[n];
