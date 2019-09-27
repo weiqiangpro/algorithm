@@ -52,7 +52,7 @@ public class Quick_Sort {
     return j;
     }
     /**
-     * 三路快速排法
+     * 三路快速排
      */
     private int _partition3(int[] arr, int l, int r) {
         swap(arr,l, (int) (Math.random()*(r-l)+l));
